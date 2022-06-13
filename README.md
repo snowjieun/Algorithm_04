@@ -1,14 +1,14 @@
 # Algorithm_04
 ## 1. Model
 
-![image](https://user-images.githubusercontent.com/67532206/173357780-86abf439-8257-4cb3-81cc-af7b521fba16.png)
+![image](https://user-images.githubusercontent.com/67532206/173358861-082ca565-aba0-45c0-93bd-e0fa0661a75f.png)
 
 ## 2. Training with Training loss
-![image](https://user-images.githubusercontent.com/67532206/173358146-13a7dbb3-4f6c-4f58-a297-6ea25d12d324.png)
+![image](https://user-images.githubusercontent.com/67532206/173358961-f1ae147c-dbb5-4a16-ad0a-453c439f0641.png)
 
 
 ## 3. Test Accuracy
-![image](https://user-images.githubusercontent.com/67532206/173358458-96648bc1-ee73-46e6-b83b-164294e62fa0.png)
+![image](https://user-images.githubusercontent.com/67532206/173359064-fd607c15-cd8b-4598-9823-76b30a756660.png)
 
 
 ## 4. success of results (images and corresponding probability that predicted right)
